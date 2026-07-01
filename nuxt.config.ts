@@ -109,6 +109,13 @@ export default defineNuxtConfig({
       contentSecurityPolicy: false
     },
     rateLimiter: false // Disable rate limiting in dev (annoying for hot-reload)
-  }
+  },
 
+  routeRules: {
+    '/resume.pdf': {
+      headers: {
+        'Content-Disposition': 'attachment; filename="Resume.pdf"'
+      }
+    }
+  }
 });

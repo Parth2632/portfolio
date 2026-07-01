@@ -1,5 +1,16 @@
 {
   "buildCommand": "bun run generate",
   "outputDirectory": ".output/public",
-  "installCommand": "bun install"
+  "installCommand": "bun install",
+  "headers": [
+    {
+      "source": "/resume.pdf",
+      "headers": [
+        {
+          "key": "Content-Disposition",
+          "value": "attachment; filename=\"Resume.pdf\""
+        }
+      ]
+    }
+  ]
 }
