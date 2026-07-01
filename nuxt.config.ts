@@ -4,7 +4,6 @@ export default defineNuxtConfig({
   compatibilityDate: '2026-01-01',
   devtools: { enabled: true },
   nitro: {
-    preset: 'bun',
     // Bundle these packages instead of externalizing - fixes Bun module resolution
     externals: {
       inline: ['ofetch', 'ipx', 'defu', 'ufo']
