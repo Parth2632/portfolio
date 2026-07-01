@@ -76,7 +76,7 @@ export default defineNuxtConfig({
   },
   site: {
     url: 'https://partharora.dev',
-    description: 'Full Stack Developer specializing in AI, backend systems, and modern web experiences.',
+    description: 'Full Stack Developer specializing in Computer Engineering, backend systems, and modern web experiences.',
     title: 'Parth Arora - Full Stack Developer',
     name: 'Parth Arora - Full Stack Developer',
   },
@@ -84,7 +84,7 @@ export default defineNuxtConfig({
     identity: {
       type: 'Person',
       name: 'Parth Arora',
-      description: 'Full Stack Developer specializing in AI, backend systems, and modern web experiences.',
+      description: 'Full Stack Developer specializing in Computer Engineering, backend systems, and modern web experiences.',
       url: 'https://partharora.dev',
       jobTitle: 'Full Stack Developer',
       sameAs: [
@@ -92,7 +92,7 @@ export default defineNuxtConfig({
         'https://www.linkedin.com/in/parth-arora-4a9636325',
       ],
       knowsAbout: [
-        'AI Development',
+        'Computer Engineering',
         'Backend Engineering',
         'Nuxt.js',
         'Python',

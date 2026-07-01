@@ -91,7 +91,7 @@
           class="grid grid-cols-2 sm:flex sm:flex-row gap-4 lg:col-span-7 xl:col-span-7 lg:row-start-2 pt-8 lg:pt-4"
         >
           <div class="flex flex-col px-4 py-3 bg-white/[0.02] border border-white/5 rounded-xl backdrop-blur-sm">
-            <span class="text-2xl font-bold text-white font-space">9.16</span>
+            <span class="text-2xl font-bold text-white font-space">9.18</span>
             <span class="text-xs text-zinc-500 font-medium tracking-wide uppercase mt-1">CGPA</span>
           </div>
           <div class="flex flex-col px-4 py-3 bg-white/[0.02] border border-white/5 rounded-xl backdrop-blur-sm">
@@ -99,11 +99,11 @@
             <span class="text-xs text-zinc-500 font-medium tracking-wide uppercase mt-1">Year TIET</span>
           </div>
           <div class="flex flex-col px-4 py-3 bg-white/[0.02] border border-white/5 rounded-xl backdrop-blur-sm">
-            <span class="text-2xl font-bold text-white font-space">AI/BE</span>
+            <span class="text-2xl font-bold text-white font-space">CS</span>
             <span class="text-xs text-zinc-500 font-medium tracking-wide uppercase mt-1">Specialization</span>
           </div>
           <a href="https://leetcode.com/u/parth_aroraaa/" target="_blank" rel="noopener noreferrer" class="flex flex-col px-4 py-3 bg-white/[0.02] border border-white/5 rounded-xl backdrop-blur-sm transition-colors hover:bg-white/[0.04]">
-            <span class="text-2xl font-bold text-white font-space">300+</span>
+            <span class="text-2xl font-bold text-white font-space">150+</span>
             <span class="text-xs text-zinc-500 font-medium tracking-wide uppercase mt-1">LeetCode</span>
           </a>
         </div>
