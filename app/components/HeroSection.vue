@@ -65,7 +65,9 @@
 
             <!-- Secondary CTA -->
             <a 
-              href="#"
+              href="/resume.pdf"
+              target="_blank"
+              download
               class="group relative flex items-center justify-center gap-2 w-full sm:w-auto px-8 py-3.5 bg-white/5 hover:bg-white/10 text-zinc-300 hover:text-white font-medium rounded-lg border border-white/10 transition-all duration-300 hover:scale-[1.02] active:scale-[0.98] backdrop-blur-sm"
             >
               <span>Download Resume</span>
