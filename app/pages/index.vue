@@ -12,13 +12,13 @@
 <script setup lang="ts">
 useSeoMeta({
   title: 'Parth Arora - Full Stack Developer',
-  description: 'Portfolio of Parth Arora - Full Stack Developer specializing in AI, backend systems, and modern web experiences.',
+  description: 'Portfolio of Parth Arora - Full Stack Developer specializing in Computer Engineering, backend systems, and modern web experiences.',
   ogTitle: 'Parth Arora - Full Stack Developer',
-  ogDescription: 'Portfolio of Parth Arora - Full Stack Developer specializing in AI, backend systems, and modern web experiences.',
+  ogDescription: 'Portfolio of Parth Arora - Full Stack Developer specializing in Computer Engineering, backend systems, and modern web experiences.',
   ogUrl: 'https://partharora.dev',
   twitterTitle: 'Parth Arora - Full Stack Developer',
-  twitterDescription: 'Portfolio of Parth Arora - Full Stack Developer specializing in AI, backend systems, and modern web experiences.',
+  twitterDescription: 'Portfolio of Parth Arora - Full Stack Developer specializing in Computer Engineering, backend systems, and modern web experiences.',
   author: 'Parth Arora',
-  keywords: 'ParthArora, Full Stack Developer, AI, Backend, Nuxt, Vue, Python, Web Development',
+  keywords: 'ParthArora, Full Stack Developer, Computer Engineering, CS, Backend, Nuxt, Vue, Python, Web Development',
 })
 </script>
