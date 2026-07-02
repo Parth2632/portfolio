@@ -14,15 +14,15 @@
           <!-- Badge -->
           <div 
             v-motion="slideUp"
-            class="inline-flex self-start items-center px-4 py-1.5 mb-8 rounded-full bg-white/5 border border-white/10 backdrop-blur-md whitespace-nowrap"
+            class="inline-flex self-start items-center px-4 py-1.5 mb-8 rounded-3xl bg-white/5 border border-white/10 backdrop-blur-md"
           >
-            <span class="text-[11px] sm:text-xs font-medium tracking-wider text-zinc-300 uppercase">
+            <span class="text-[11px] sm:text-xs font-medium tracking-wider text-zinc-300 uppercase leading-relaxed">
               AI Engineer <span class="text-orange-500/70 mx-2">•</span> Backend Developer <span class="text-orange-500/70 mx-2">•</span> ML Enthusiast
             </span>
           </div>
 
           <!-- Heading -->
-          <h1 id="hero-title" class="font-bold text-5xl sm:text-6xl lg:text-[4rem] xl:text-[5rem] text-zinc-100 leading-[1.1] tracking-tight mb-6">
+          <h1 id="hero-title" class="font-bold text-4xl min-[400px]:text-5xl sm:text-6xl lg:text-[4rem] xl:text-[5rem] text-zinc-100 leading-[1.1] tracking-tight mb-6">
             <span class="block w-fit overflow-hidden pb-2 pr-4">
               <span class="block font-space hero-reveal" style="--delay: 100ms">
                 Building
