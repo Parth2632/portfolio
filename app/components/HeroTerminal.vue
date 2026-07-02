@@ -63,7 +63,7 @@ const commands = [
   { output: `<span class="text-green-400 mr-2">✔</span> <span class="text-white">AI/LLM Engineering</span>`, delay: 150 },
   { output: `<span class="text-green-400 mr-2">✔</span> <span class="text-white">Backend Development</span>`, delay: 150 },
   { output: `<span class="text-green-400 mr-2">✔</span> <span class="text-white">Machine Learning</span>`, delay: 150 },
-  { output: `<span class="text-green-400 mr-2">✔</span> <span class="text-white">Docker & AWS</span>`, delay: 150 },
+  { output: `<span class="text-green-400 mr-2">✔</span> <span class="text-white">Docker</span>`, delay: 150 },
   { output: `<span class="text-green-400 mr-2">✔</span> <span class="text-white">Problem Solving</span>`, delay: 400 },
   { output: `<br/><span class="text-zinc-500 uppercase text-xs font-bold tracking-widest">Status:</span><br/><span class="text-orange-400 drop-shadow-[0_0_8px_rgba(249,115,22,0.5)]">Ready for Internship</span>`, delay: 0 }
 ]
